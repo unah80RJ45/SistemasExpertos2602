@@ -1,0 +1,14 @@
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\chaIA\obj\Debug\chaIA.csproj.AssemblyReference.cache
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\chaIA\obj\Debug\chaIA.Form1.resources
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\chaIA\obj\Debug\chaIA.Properties.Resources.resources
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\chaIA\obj\Debug\chaIA.csproj.GenerateResource.cache
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\chaIA\obj\Debug\chaIA.csproj.CoreCompileInputs.cache
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\chaIA\bin\Debug\chaIA.exe.config
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\chaIA\bin\Debug\chaIA.exe
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\chaIA\bin\Debug\chaIA.pdb
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\chaIA\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\chaIA\bin\Debug\Newtonsoft.Json.xml
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\chaIA\obj\Debug\chaIA.csproj.Up2Date
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\chaIA\obj\Debug\chaIA.exe
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\chaIA\obj\Debug\chaIA.pdb
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\chaIA\obj\Debug\chaIA.exe.config

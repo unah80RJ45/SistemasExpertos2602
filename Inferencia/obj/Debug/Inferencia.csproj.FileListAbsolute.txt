@@ -1,0 +1,11 @@
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\Inferencia\bin\Debug\Inferencia.exe.config
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\Inferencia\bin\Debug\Inferencia.exe
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\Inferencia\bin\Debug\Inferencia.pdb
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\Inferencia\obj\Debug\Inferencia.csproj.AssemblyReference.cache
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\Inferencia\obj\Debug\Inferencia.Form1.resources
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\Inferencia\obj\Debug\Inferencia.Properties.Resources.resources
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\Inferencia\obj\Debug\Inferencia.csproj.GenerateResource.cache
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\Inferencia\obj\Debug\Inferencia.csproj.CoreCompileInputs.cache
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\Inferencia\obj\Debug\Inferencia.exe
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\Inferencia\obj\Debug\Inferencia.pdb
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\Inferencia\obj\Debug\Inferencia.exe.config
