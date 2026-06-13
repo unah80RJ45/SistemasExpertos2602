@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\UNAH\\2026\\2026-02\\SistemasExpertos\\invExperto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3220B76F-7D64-43B2-AAC8-A20C39257046}|invExperto.csproj|c:\\dev\\unah\\2026\\2026-02\\sistemasexpertos\\invexperto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3220B76F-7D64-43B2-AAC8-A20C39257046}|invExperto.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3220B76F-7D64-43B2-AAC8-A20C39257046}|invExperto.csproj|c:\\dev\\unah\\2026\\2026-02\\sistemasexpertos\\invexperto\\motor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3220B76F-7D64-43B2-AAC8-A20C39257046}|invExperto.csproj|solutionrelative:motor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3220B76F-7D64-43B2-AAC8-A20C39257046}|invExperto.csproj|c:\\dev\\unah\\2026\\2026-02\\sistemasexpertos\\invexperto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3220B76F-7D64-43B2-AAC8-A20C39257046}|invExperto.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3220B76F-7D64-43B2-AAC8-A20C39257046}|invExperto.csproj|c:\\dev\\unah\\2026\\2026-02\\sistemasexpertos\\invexperto\\regla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3220B76F-7D64-43B2-AAC8-A20C39257046}|invExperto.csproj|solutionrelative:regla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3220B76F-7D64-43B2-AAC8-A20C39257046}|invExperto.csproj|c:\\dev\\unah\\2026\\2026-02\\sistemasexpertos\\invexperto\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3220B76F-7D64-43B2-AAC8-A20C39257046}|invExperto.csproj|solutionrelative:articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\SistemasExpertos\\invExperto\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Dev\\UNAH\\2026\\2026-02\\SistemasExpertos\\invExperto\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAADwvzcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T00:52:45.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Motor.cs",
+              "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\SistemasExpertos\\invExperto\\Motor.cs",
+              "RelativeDocumentMoniker": "Motor.cs",
+              "ToolTip": "C:\\Dev\\UNAH\\2026\\2026-02\\SistemasExpertos\\invExperto\\Motor.cs",
+              "RelativeToolTip": "Motor.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T23:50:49.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Regla.cs",
+              "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\SistemasExpertos\\invExperto\\Regla.cs",
+              "RelativeDocumentMoniker": "Regla.cs",
+              "ToolTip": "C:\\Dev\\UNAH\\2026\\2026-02\\SistemasExpertos\\invExperto\\Regla.cs",
+              "RelativeToolTip": "Regla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T23:43:02.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\SistemasExpertos\\invExperto\\Articulo.cs",
+              "RelativeDocumentMoniker": "Articulo.cs",
+              "ToolTip": "C:\\Dev\\UNAH\\2026\\2026-02\\SistemasExpertos\\invExperto\\Articulo.cs",
+              "RelativeToolTip": "Articulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T23:35:29.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\SistemasExpertos\\invExperto\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Dev\\UNAH\\2026\\2026-02\\SistemasExpertos\\invExperto\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T23:32:26.473Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\invExperto\bin\Debug\invExperto.exe.config
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\invExperto\bin\Debug\invExperto.exe
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\invExperto\bin\Debug\invExperto.pdb
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\invExperto\obj\Debug\invExperto.csproj.AssemblyReference.cache
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\invExperto\obj\Debug\invExperto.Form1.resources
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\invExperto\obj\Debug\invExperto.Properties.Resources.resources
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\invExperto\obj\Debug\invExperto.csproj.GenerateResource.cache
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\invExperto\obj\Debug\invExperto.csproj.CoreCompileInputs.cache
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\invExperto\obj\Debug\invExperto.exe
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\invExperto\obj\Debug\invExperto.pdb
+C:\Dev\UNAH\2026\2026-02\SistemasExpertos\invExperto\obj\Debug\invExperto.exe.config
